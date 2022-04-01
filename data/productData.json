@@ -1,0 +1,74 @@
+{
+  "ID1":{
+    "productName":"Yellow Skater Dress",
+    "productPrice":"73",
+    "productLink":"link to product",
+    "productImage":"someImage"
+  },
+  "ID2":{
+    "productName":"Lulu Lemon Leggings",
+    "productPrice":"90",
+    "productLink":"link to product",
+    "productImage":"someImage"
+  },
+  "ID3":{
+    "productName":"Sparkly Sneakers",
+    "productPrice":"150",
+    "productLink":"link to product",
+    "productImage":"someImage"
+  },
+  "ID4":{
+    "productName":"Green Beach Dress",
+    "productPrice":"102",
+    "productLink":"link to product",
+    "productImage":"someImage"
+  },
+  "ID5":{
+    "productName":"Tight Dress",
+    "productPrice":"105",
+    "productLink":"link to product",
+    "productImage":"someImage"
+  },
+  "ID6":{
+    "productName":"Chanel Blue Dress",
+    "productPrice":"1340",
+    "productLink":"link to product",
+    "productImage":"someImage"
+  },
+  "ID7":{
+    "productName":"Pink Shorts",
+    "productPrice":"32",
+    "productLink":"link to product",
+    "productImage":"pinkShorts.jpg"
+  },
+  "ID8":{
+    "productName":"Blue Dress",
+    "productPrice":"55",
+    "productLink":"link to product",
+    "productImage":"blueDress.jpg"
+  },
+  "ID9":{
+    "productName":"Red Haltertop Dress",
+    "productPrice":"106",
+    "productLink":"link to product",
+    "productImage":"redDress.jpg"
+  },
+  "ID10":{
+    "productName":"Red Flarred Jeans",
+    "productPrice":"22",
+    "productLink":"link to product",
+    "productImage":"someImage"
+  },
+  "ID11":{
+    "productName":"Black Pants",
+    "productPrice":"80",
+    "productLink":"link to product",
+    "productImage":"someImage"
+  },
+  "ID12":{
+    "productName":"Green Skirt",
+    "productPrice":"1020",
+    "productLink":"link to product",
+    "productImage":"someImage"
+  }
+}
